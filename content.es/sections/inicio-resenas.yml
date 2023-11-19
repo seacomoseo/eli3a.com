@@ -1,0 +1,35 @@
+title: Reseñas
+subtitle: Lo qué dicen de nosotras
+# icon:
+#   id: comments
+color: main-light
+rows:
+- type: reviews
+  design:
+    num: 3
+    color: white
+    slider: true
+  items:
+  - title: Gayane P.
+    description: |
+      Excelente calidad. Variedad de tallas y modelos monísimos. Las chicas son muy agradables. A partir de ahora será mi tienda de lencería.
+  - title: Tatiana P.
+    description: |
+      Me lleve un conjunto muy bonito y tengo que decir que lo llevo muy cómodo. Muchas gracias por asesorarme. Me tenéis como clienta.
+  - title: Nieves E.
+    description: |
+      Unas marcas con tallas que de verdad se ajustan al busto femenino. No lo dudes y pruébalas.
+  - title: Francisco J. M.
+    description: |
+      Buena experiencia  asegurado todo momento gracias chicas.
+  - title: Lizzieieie
+    description: |
+      Super buena tienda, el material es muy fino y la textura también, ¡realmente lo recomiendo! 😍
+- type: columns
+  items:
+  - description: |
+      ¡Hay más aquí! ¡Añade la tuya!
+      {.subtitle}
+
+      [btn icon-star Google](https://g.page/r/CaYCkPyF3valEAI/review "noindex")
+      [btn icon-star Facebook](https://www.facebook.com/profile.php?id=100087339064474&sk=reviews "noindex")

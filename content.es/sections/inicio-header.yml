@@ -1,0 +1,23 @@
+anchor: Lencería Exclusiva con Tallas Grandes en Murcia
+color: main-dark
+bg: 22-11-17-16-13-00.jpg
+size: lg
+gradient: black
+more:
+  opacity: 20
+  parallax: true
+  gradient_type: linear-r
+rows:
+- type: columns
+  design:
+    num: 6
+    align_y: center
+  items:
+  - subtitle: Tallas Grandes en Murcia
+    span: 3
+    link: '#principal'
+    image: logo.svg
+  - span: 2
+    image: lenceria-tallas-grandes-murcia.mp4
+    more:
+      ratio: 9x16

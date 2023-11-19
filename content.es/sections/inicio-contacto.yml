@@ -1,0 +1,59 @@
+title: Contacto
+subtitle: ¿En qué podemos ayudarte?
+color: white
+button: link
+size: sm
+rows:
+- type: contact
+  data:
+  - type: schedule
+    days: Lunes a Sábados
+    hours: 10:00 - 14:00 y 16:00 - 20:00
+    full: true
+  - type: phone
+    label: 622 56 81 06
+  - type: whatsapp
+    label: 622 56 81 06
+    button: link
+  - type: mail
+    label: eli3alenceriaexclusiva@gmail.com
+    full: true
+    button: light
+  - type: custom
+    link: https://www.instagram.com/eli3a_lenceriaexclusiva/
+    label: Instagram
+    icon: instagram
+    ofuscate: true
+  - type: custom
+    link: https://www.facebook.com/profile.php?id=100087339064474
+    label: Facebook
+    icon: facebook-f
+    ofuscate: true
+  - type: address
+    active: true
+    name: Eli3a - Lencería Exclusiva con Tallas Grandes
+    streetAddress: Calle Jabonerías, 7
+    postalCode: 30001
+    addressLocality: Murcia
+    addressRegion: Murcia
+    addressCountry: España
+    coordinates: '{"type":"Point","coordinates":[-1.1312910,37.9862350]}'
+    button: light
+  form:
+    fill_inputs: false
+    items:
+    - type: text
+      name: Nombre
+      required: true
+    - type: email
+      name: Email
+      required: true
+    - type: textarea
+      name: Mensaje
+      required: true
+  map:
+    active: true
+    link: https://g.page/r/CaYCkPyF3valEAI
+    iframe: ''
+    flip_x: true
+    divider: curve-side-fill

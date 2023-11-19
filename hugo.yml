@@ -1,0 +1,32 @@
+baseURL: https://eli3a.com
+Paginate: 24
+buildFuture: false
+theme: [sansoul]
+params:
+  git_url: https://gitlab.com/eli3a/eli3a.com
+  netlify_name: eli3a
+  netlify_id: 8c02b80e-2e56-47e4-9c05-1e7ffc95c95e
+  drive_link: https://drive.google.com/file/d/1zq47GtyHPAqAXNVU7nmjM1ca1ym5nXnd
+  drive_mails: eli3alenceriaexclusiva@gmail.com, isaperezmendez72@gmail.com
+defaultContentLanguage: es
+disableLanguages: [en]
+languages:
+  es:
+    paginatePath: pagina
+    permalinks:
+      page:
+        pages: :slug
+        blog: :slug
+        events: evento/:year/:month/:day/:slug
+        products: producto/:slug
+        categories: categoria/:slug
+        tags: etiqueta/:slug
+        authors: autor/:slug
+      section:
+        pages: paginas
+        blog: blog
+        events: eventos
+        products: productos
+        categories: categorias
+        tags: etiquetas
+        authors: autores

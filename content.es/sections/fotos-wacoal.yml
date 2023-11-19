@@ -1,0 +1,26 @@
+id: wacoal
+color: main-light
+image: logo-wacoal.svg
+icon: aperture
+description: |
+  Nació en Japón en el año 1949, siendo la primera firma de lencería creada en Asia. El nombre significa "Armonía del Lago". Es una marca líder en Asia y Estados Unidos. Esta marca esta en constante innovación para crear la mejor calidad.
+more:
+  image_max: 18
+rows:
+- type: columns
+  items:
+  - link: https://www.wacoallingerie.com/
+    label: Web
+    more:
+      ofuscate: true
+- type: gallery
+  design:
+    max: 99
+    num: 4
+    alt: true
+    wrap: true
+    gap: true
+    cover: true
+    grayscale: false
+    button: main
+  images: []

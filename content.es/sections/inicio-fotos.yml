@@ -1,0 +1,29 @@
+title: Fotos
+subtitle: ¿Cómo son nuestras instalaciones?
+# icon:
+#   id: aperture
+color: main-light
+more:
+  padding_hide: true
+rows:
+- type: gallery
+  design:
+    max: 99
+    num: 3
+    alt: true
+    wrap: false
+    gap: false
+    cover: true
+    grayscale: false
+    link: /fotos/
+    button: main
+  images:
+  - fondo.jpg
+  - 22-11-17-17-00-35.jpg
+  - 22-11-17-16-22-02.jpg
+  - 22-11-17-16-20-39.jpg
+  - 22-11-17-15-54-31.jpg
+  - 22-11-17-16-13-23.jpg
+  - 22-11-17-16-11-47.jpg
+  - 22-11-17-16-13-47.jpg
+  - 22-11-17-16-35-26.jpg

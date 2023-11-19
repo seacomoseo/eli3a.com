@@ -1,0 +1,34 @@
+title: Nos Caracteriza
+subtitle: Marcamos la diferencia
+# icon:
+#   id: certificate
+color: main-light
+rows:
+- type: columns
+  design:
+    underline: true
+  items:
+  - title: ¿Por qué elegir la lencería de Eli3a?
+    icon: circle-question
+    description: |
+      En nuestra tienda decidimos pensar en las tallas grandes, ya que las chicas curvy, tienen el mismo derecho a sentirse sexys, por ello contamos con tallas que van de la 75 a la 125 de contorno y de copa de la B a la O, en colores neutros para el día a día hasta la prenda mas actual y sexy.
+
+    # Descubre la facilidad de escoger la ropa interior que mejor se adapte a ti, déjanos medirte para averiguar tu talla y encontrar el look perfecto y adecuado para ti.
+  - title: Una idea que hable por ti
+    icon: lightbulb-on
+    description: |
+      Nos encanta ayudarte a encontrar diversidad en tus looks por eso cuenta el tipo de encaje y el color para escoger el más adecuado según la ocasión, que dentro de tus ideas y gustos, y lo que nosotros como profesionales te asesoremos lograr una armonía.
+  - title: Encontrar tu conjunto ideal
+    icon: stars
+    description: |
+      Trabajar con firmas especializadas en este sector, y modelos tan exclusivos, nos resulta un poco imposible el pensar que no podamos cumplir tu sueño.
+
+      Para ello entre otras, nuestras preferidas son Wacoal, Fantasie, Freya y Elomi.
+  - title: Variedad en todo tipo de prendas
+    icon: clothes-hanger
+    description: |
+      Disfruta de una variedad, y comodidad impecable, es importante ir cómoda hasta el último momento del día.
+
+      También podrás encontrar prendas como pijamas, camisones, tendencias deportivas y complementos, además de la ropa interior.
+
+    #  Todas ellas están hechas con los mejores géneros para dar un confort y una delicadeza ideal para tu cuerpo y día a día.

@@ -1,0 +1,31 @@
+title: Firmas
+subtitle: Calidad en cada detalle
+# icon:
+#   id: medal
+color: white
+rows:
+- type: columns
+  design:
+    label: Fotos
+    ratio: 16x9
+  items:
+  - link: /fotos/#wacoal
+    image: logo-wacoal.svg
+    description: |
+      Wacoal nació en  Japón en 1949, siendo la primera marca de lencería creada en Asia.
+    # title: Wacoal
+  - link: /fotos/#freya
+    image: logo-freya.svg
+    description: |
+      Freya es una marca juvenil, realza el pecho y tiene una buena sujeción.
+    # title: Freya
+  - link: /fotos/#fantasie
+    image: logo-fantasie.svg
+    description: |
+      Fantasie es una marca de sujetadores sofisticados y cómodos para tallas grandes.
+    # title: Fantasie
+  - link: /fotos/#elomi
+    image: logo-elomi.svg
+    description: |
+      Elomi es la marca de sujetadores para tallas grandes por excelencia.
+    # title: Elomi

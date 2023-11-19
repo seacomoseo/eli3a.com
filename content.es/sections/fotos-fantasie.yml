@@ -1,0 +1,26 @@
+id: fantasie
+color: main-light
+image: logo-fantasie.svg
+icon: aperture
+description: |
+  Freya es una marca juvenil, realza el pecho y tiene una buena sujeción.
+more:
+  image_max: 18
+rows:
+- type: columns
+  items:
+  - link: https://www.fantasie.com/
+    label: Web
+    more:
+      ofuscate: true
+- type: gallery
+  design:
+    max: 99
+    num: 4
+    alt: true
+    wrap: true
+    gap: true
+    cover: true
+    grayscale: false
+    button: main
+  images: []

@@ -1,0 +1,29 @@
+// Header
+
+#body-inicio #header {
+  // .image path {
+  //   fill: var(--text);
+  // }
+  @mixin show-up($delay) {
+    animation: show-up .5s (.5 + .25s * $delay) both;
+  }
+  .column--item-1 .image { @extend %draw; }
+  .subtitle {                 @include show-up(4); }
+  .button {                   @include show-up(5); }
+  .column--item-2 {           @include show-up(6); }
+}
+
+#firmas {
+  .column__content {
+    @extend .underline;
+    &:after {
+      order: -1;
+    }
+    .image {
+      order: -2;
+    }
+    .image--16x9 {
+      --image-ratio: 3/1;
+    }
+  }
+}

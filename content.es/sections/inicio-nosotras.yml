@@ -1,0 +1,28 @@
+title: Nosotras
+subtitle: Conoce nuestra tienda y equipo
+color: white
+rows:
+- type: columns
+  design:
+    num: 2
+    underline: true
+  items:
+  - order: 1
+    image: 22-11-17-16-13-47.jpg
+  - title: Quienes somos
+    order: 2
+    description: |
+      En Eli3a, nuestro trato es totalmente personalizado porque cada una de vosotras sois únicas y diferentes, y es que la ropa interior de mujer no es sólo un tipo de prenda más, dice mucho de nuestro estado de animo, por eso sentirte bien contigo misma, sea el momento y el lugar que sea, es importante para nosotras.
+    more:
+      align: left
+      align_y: center
+  - order: 4
+    image: 22-11-17-16-24-47.jpg
+  - title: Equipo
+    order: 3
+    description: |
+      Somos un equipo empático, profesional y con muchos años de experiencia, totalmente formado para encontrar tu necesidad, y ayudarte en tus dificultades. No conocemos a nadie con pasión que no tenga trabajo, por ello disfrutamos del nuestro día a día, aquí nos apasiona lo que hacemos, esperamos verte pronto, ¡te esperamos con ilusión!
+    more:
+      align: left
+      align_y: center
+      align_xl: right

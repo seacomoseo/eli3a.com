@@ -1,0 +1,26 @@
+id: elomi
+color: main-light
+image: logo-elomi.svg
+icon: aperture
+description: |
+  Elomi es la marca de sujetadores para tallas grandes por excelencia, creada para mujeres curvys, realza, sujeta, coloca, que decir... Impecable en todas sus funciones.
+more:
+  image_max: 18
+rows:
+- type: columns
+  items:
+  - link: https://www.elomilingerie.com/
+    label: Web
+    more:
+      ofuscate: true
+- type: gallery
+  design:
+    max: 99
+    num: 4
+    alt: true
+    wrap: true
+    gap: true
+    cover: true
+    grayscale: false
+    button: main
+  images: []
