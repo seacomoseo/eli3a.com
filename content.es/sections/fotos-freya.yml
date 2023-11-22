@@ -1,9 +1,10 @@
-id: freya
+menu: Freya
 color: main-light
 image: logo-freya.svg
 icon: aperture
+align: center
 description: |
-  Fantasie es una marca de sujetadores para tallas grandes. Sus sujetadores son sofisticados, cómodos, realza y coloca bien el pecho, lo que te permitirá moverte sin miedo y que no salgan del sitio creando un visual de doble pecho.
+  Freya es una marca juvenil, realza el pecho y tiene una buena sujeción.
 more:
   image_max: 18
 rows:
